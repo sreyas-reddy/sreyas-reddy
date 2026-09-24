@@ -38,12 +38,12 @@ Data Engineer with 5+ years of experience strengthening the reliability, traceab
 
 ## Projects
 
-### [AI-Assisted Data Contract Monitor](https://github.com/sreyas-lankala/ai-data-contract-monitor)
+### [AI-Assisted Data Contract Monitor](https://github.com/sreyas-reddy/ai-data-contract-monitor)
 `Python` `dbt` `Snowflake` `Airflow` `Azure OpenAI`
 
 Metadata-driven checker that compares incoming schemas, freshness, and key constraints against versioned data contracts, routes violations to exception tables, and drafts plain-language impact summaries for review. Deterministic SQL and dbt tests plus JSON schema validation around LLM output keep pass/fail controls independent of AI-generated explanations.
 
-### [Privacy-Aware Synthetic Banking Data Lab](https://github.com/sreyas-lankala/synthetic-banking-data-lab)
+### [Privacy-Aware Synthetic Banking Data Lab](https://github.com/sreyas-reddy/synthetic-banking-data-lab)
 `Python` `Snowflake` `dbt`
 
 Synthetic loan and repayment datasets that preserve referential integrity and edge cases for duplicate payments, late fees, and missing accounts — with zero production PII. Automated scorecards for completeness, uniqueness, validity, and reconciliation so test data is checked against governance rules before pipeline runs.
